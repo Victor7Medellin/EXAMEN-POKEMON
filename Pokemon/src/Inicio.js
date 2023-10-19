@@ -182,8 +182,8 @@ const styles = StyleSheet.create({
     gridItem: {
       flex: 1,
       alignItems: 'center',
-      width: '40%',
-      margin: '10%',
+      width: '90%',
+      margin: '3%',
     },
     gridItemImage: {
       width: 150,
